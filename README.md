@@ -1,6 +1,4 @@
 # LRUCache
-LRUCache Impl with TTL
-
 LRU Cache implementation along with TTL.
 
 Implement an in-memory caching library to store (key, value) objects for faster retrieval. Key requirements of the library are as follows:
